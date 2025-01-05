@@ -48,7 +48,7 @@
 
 ### 🔥 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yubj03&theme=radical" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yubj03&theme=radical" alt="Activity Graph" />
 </p>
 
 ---
