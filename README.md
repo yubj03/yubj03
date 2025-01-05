@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!-- 멋진 배너 -->
-<p align="center">
-  <img src="https://github.com/yubj03/yubj03/blob/main/github_banner_re2.png" alt="Banner" />
-</p>
-
 <h1 align="center">👋 Hello, I'm Yubj03!</h1>
 
 <p align="center">
