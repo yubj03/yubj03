@@ -7,10 +7,10 @@
 ---
 
 ### 🌟 About Me
-- 🔭 **Currently working on**: Python-based Machine Learning projects and algorithm challenges.
-- 🌱 **Learning**: Data analysis, machine learning optimization, and Pythonic problem-solving.
-- 💡 **Interests**: Machine Learning, Data Visualization, and Algorithm Challenges.
-- 🎯 **Goals**: Improve coding skills and build more practical projects.
+- 🔭 **Currently working on**: Python 기반 머신러닝 프로젝트
+- 🌱 **Learning**: 데이터 분석, 머신러닝 최적화, 파이썬 문제 해결
+- 💡 **Interests**: 머신러닝, 딥러닝, 데이터 시각화
+- 🎯 **Goals**: update soon
 
 ---
 
@@ -34,7 +34,7 @@
 ### 📂 Featured Projects
 | **Project Name**         | **Description**                                      | **Repo**                                  |
 |---------------------------|-----------------------------------------------------|-------------------------------------------|
-| **Subway Data Analysis**  | Python script for subway data analysis and trends.  | [GitHub](https://github.com/yubj03/subway_data) |
+| **지하철 데이터 분석**  | 서울시 지하철 탑승 인원 데이터 분석을 위한 전처리 작업 | [GitHub](https://github.com/yubj03/subway_data) |
 
 ---
 
@@ -54,9 +54,9 @@
 ---
 
 ### ✨ Future Plans
-- **📊 Expand Projects**: Add more machine learning and data analysis projects.
-- **📖 Algorithm Challenges**: Continue solving coding problems on various platforms.
-- **🌟 Portfolio Improvement**: Organize repositories for better accessibility.
+- **📊 Expand Projects**: 머신러닝 및 데이터 분석 프로젝트 추가
+- **📖 Algorithm Challenges**: 다양한 플랫폼에서 지속적으로 코딩 문제 풀이
+- **🌟 Portfolio Improvement**: 저장소 구성을 통해 더 나은 접근성 구축
 
 ---
 
