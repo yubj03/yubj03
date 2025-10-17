@@ -34,6 +34,7 @@
 ### 📂 Featured Projects
 | **Project Name**         | **Description**                                      | **Repo**                                  |
 |---------------------------|-----------------------------------------------------|-------------------------------------------|
+| **재난 보도 불균형 분석**  | 2013–2022년 재난 보도 데이터를 기반으로 수도권과 비수도권 간 보도량 격차를 분석 | [GitHub](https://github.com/yubj03/Analysis_of_Disaster_Reporting_Disparities) |
 | **지하철 데이터 분석**  | 서울시 지하철 탑승 인원 데이터 분석을 위한 전처리 작업 | [GitHub](https://github.com/yubj03/subway_data) |
 | **F1 순위 데이터 분석**  | F1 경기 순위(3위 안에 들 확률) 예측 | [GitHub](https://github.com/yubj03/F1_Prediction_Program) |
 | **Presentation Feedback Program 제작**  | 전처리 및 오디오 기반 voc quality, voc speed 측정 모델 구축 | [GitHub](https://github.com/yubj03/Presentation_Feedback_Program) |
